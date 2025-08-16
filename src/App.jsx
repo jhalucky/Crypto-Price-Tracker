@@ -32,7 +32,7 @@ function App() {
   );
 
   return (
-    <div className="min-h-screen bg-violet-800 py-8 px-4">
+    <div className="min-h-screen bg-violet-800 p-5 py-8">
       
         
         <Navbar
